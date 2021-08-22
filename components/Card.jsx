@@ -9,11 +9,11 @@ const Card = () => {
         />
 
         <div className='absolute flex gap-1 -bottom-3 right-2 '>
-          {['frontend', 'ui', 'ux', 'color'].map((item) => (
+          {['frontend', 'ui', 'ux', 'color'].map((item, i) => (
             <a
               href='#'
               className='text-sm py-0.5 px-2 bg-white ring-1 ring-green-400 ring-opacity-30 rounded-lg'
-              key={item}
+              key={i}
             >
               {item}
             </a>
