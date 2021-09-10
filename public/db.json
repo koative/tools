@@ -1,0 +1,82 @@
+[
+    {
+        "name":"coolors.co",
+        "description":"Generate or browse beautiful color combinations for your designs.",
+        "poster":"",
+        "url":"https://coolors.co/",
+        "categories":["frontend","ui"]
+        
+    },
+    {
+        "name":"flowcv.io",
+        "description":"Set yourself apart with a modern resume. Expert tips, customizable templates & quick PDF download included.",
+        "poster":"",
+        "url":"https://flowcv.io/",
+        "categories":["resume"]
+        
+    },
+    {
+        "name":"devicon.dev",
+        "description":"Devicon is a set of icons representing programming languages, designing & development tools.",
+        "poster":"",
+        "url":"https://devicon.dev/",
+        "categories":["frontend","ui","icons"]
+        
+    },
+    {
+        "name": "vercel",
+        "description": "Vercel combines the best developer experience with an obsessive focus on end-user performance.Our platform enables frontend teams to do their best work.",
+        "poster": "",
+        "url": "https://vercel.com/",
+        "categories": ["frontend", "backend", "deploy"]
+      },
+      {
+        "name": "netlify",
+        "description": "An intuitive Git-based workflow and powerful serverless platform to build, deploy, and collaborate on web apps",
+        "poster": "",
+        "url": "https://www.netlify.com/",
+        "categories": ["frontend", "backend", "deploy"]
+      },
+      {
+        "name": "firebase",
+        "description": "Firebase helps you build and run successful apps",
+        "poster": "",
+        "url": "https://firebase.google.com/",
+        "categories": ["frontend", "backend", "deploy"]
+      },
+      {
+        "name": "Heroku",
+        "description": "Whether you're building a simple prototype or a business-critical product, Heroku's fully-managed platform gives you the simplest path to delivering apps quickly.",
+        "poster": "",
+        "url": "https://www.heroku.com/",
+        "categories": ["frontend", "backend", "deploy"]
+      },
+      {
+        "name": "surge.sh",
+        "description": "Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line.",
+        "poster": "",
+        "url": "https://surge.sh/",
+        "categories": ["frontend", "backend", "deploy"]
+      },
+      {
+        "name": "render",
+        "description": "Render is a unified cloud to build and run all your apps and websites with free SSL, a global CDN, private networks, and auto deploys from Git.",
+        "poster": "",
+        "url": "https://render.com/",
+        "categories": ["frontend", "backend", "deploy"]
+      },
+      {
+        "name": "hostman",
+        "description": "Hostman lets you launch your apps in a few clicks using a friendly interface. The pricing is fair and transparent. Works on top of AWS and DigitalOcean.",
+        "poster": "",
+        "url": "https://hostman.com/",
+        "categories": ["frontend", "backend", "deploy"]
+      },
+      {
+        "name": "glitch",
+        "description": "Create your next web project in your browser with no setup and we'll instantly deploy it.",
+        "poster": "",
+        "url": "https://glitch.com/",
+        "categories": ["frontend", "backend", "deploy"]
+      } 
+]
